@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="GitHub Banner" width="100%" height="300"/>
 </p>
-## 📊 GitHub Metrics
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 
