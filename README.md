@@ -6,18 +6,8 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="left">
-  <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,
-  react,nextjs,redux,tailwind,
-  nodejs,express,nestjs,
-  python,django,flask,
-  java,spring,
-  cpp,c,
-  mongodb,postgres,mysql,redis,
-  git,github,githubactions,
-  docker,kubernetes,
-  aws,vercel,netlify,
-  linux,bash,
-  vscode,postman&theme=dark">
+  <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,java,spring,cpp,c,mongodb,postgres,mysql,redis,git,github,githubactions,
+    docker,kubernetes,aws,vercel,netlify,linux,bash,vscode,postman&theme=dark">
 </p>
 
 
