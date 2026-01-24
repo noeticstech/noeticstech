@@ -5,9 +5,8 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
----
 <p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,vscode,postman,django,mongodb,aws,vercel,netlify,postgres,git,github,vscode,docker&theme=dark">
+  <img height="80" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,vscode,postman,django,mongodb,aws,vercel,netlify,postgres,git,github,vscode,docker&theme=dark">
 </p>
 
 
