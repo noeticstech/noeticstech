@@ -6,6 +6,9 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+<p align="left">
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,postgres,git,github,vscode,docker&theme=dark">
+</p>
 
 
 
