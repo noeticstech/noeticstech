@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%" height="300"/>
+</p>
+
 
 <!--
 **noeticstech/NoeticsTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
