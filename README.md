@@ -1,13 +1,11 @@
 <p align="center">
   <img src="assets/banner.png" alt="GitHub Banner" width="100%" height="300"/>
 </p>
----
-<h2 align="center">📈 GitHub Contribution Intelligence</h2>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
----
-<h2 align="center">🛠️ Technologies & Tools</h2>
 
+<h2 align="center">🛠️ Technologies & Tools</h2>
+---
 <p align="left">
   <img height="40" src="https://skillicons.dev/icons?i=
   html,css,js,ts,
