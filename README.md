@@ -6,21 +6,10 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+##🛠️ Technologies & Tools
+---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,
-  react,nextjs,redux,tailwind,
-  nodejs,express,nestjs,
-  python,django,flask,
-  java,spring,
-  cpp,c,
-  mongodb,postgres,mysql,redis,
-  git,github,githubactions,
-  docker,kubernetes,
-  aws,vercel,netlify,
-  linux,bash,
-  vscode,postman
-  &theme=dark" />
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,postgres,git,github,vscode,docker&theme=dark">
 </p>
 
 
