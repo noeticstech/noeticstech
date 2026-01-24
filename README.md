@@ -4,7 +4,8 @@
 
 <h2 align="center">📈 GitHub Contribution Intelligence</h2>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
+
 
 
 
