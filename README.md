@@ -3,31 +3,8 @@
 </p>
 ## 📊 GitHub Metrics
 
-<img src="https://metrics.lecoq.io/noeticstech
-?template=classic
-&base.header=0
-&base.activity=1
-&base.community=1
-&base.repositories=1
-&base.metadata=1
-&isocalendar=1
-&isocalendar.duration=half-year
-&languages=1
-&languages.limit=8
-&languages.threshold=0%
-&languages.colors=github
-&languages.details=percentage
-&languages.indepth=true
-&activity=1
-&activity.limit=5
-&activity.days=14
-&activity.filter=all
-&stars=1
-&followup=1
-&people=1
-&repositories=1
-&repositories.featured=1
-&config.timezone=Asia/Kolkata" />
+<img src="https://metrics.lecoq.io/noeticstech?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.details=percentage&languages.indepth=true&activity=1&activity.limit=5&activity.days=14&activity.filter=all&stars=1&followup=1&people=1&repositories=1&repositories.featured=1&config.timezone=Asia/Kolkata" />
+
 
 
 <!--
