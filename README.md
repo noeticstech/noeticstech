@@ -12,11 +12,11 @@
 <table width="100%" style="border-collapse:collapse;">
 <tr>
 
-<td width="72%" align="center" valign="top">
+<!-- LEFT : Favourite Characters (70%) -->
+<td width="70%" align="center" valign="top">
 
 <h3>⭐ Favourite Characters</h3>
 
-<!-- ROW 1 -->
 <img src="1.jpg" height="108"/>
 <img src="2.jpg" height="108"/>
 <img src="3.jpg" height="108"/>
@@ -24,11 +24,8 @@
 <img src="5.jpg" height="108"/>
 <img src="6.jpg" height="108"/>
 <img src="7.jpg" height="108"/>
-<img src="8.jpg" height="108"/>
+<img src="8.jpg" height="108"/><br/>
 
-<br/>
-
-<!-- ROW 2 -->
 <img src="9.jpg" height="108"/>
 <img src="10.jpg" height="108"/>
 <img src="11.jpg" height="108"/>
@@ -36,11 +33,8 @@
 <img src="13.jpg" height="108"/>
 <img src="14.jpg" height="108"/>
 <img src="15.jpg" height="108"/>
-<img src="16.jpg" height="108"/>
+<img src="16.jpg" height="108"/><br/>
 
-<br/>
-
-<!-- ROW 3 -->
 <img src="17.jpg" height="108"/>
 <img src="18.jpg" height="108"/>
 <img src="19.jpg" height="108"/>
@@ -52,19 +46,21 @@
 
 </td>
 
-<td width="28%" align="center" valign="middle">
+<!-- RIGHT : Portfolio (30%) -->
+<td width="30%" align="center" valign="middle">
 
 <h3>🚀 My Portfolio</h3>
 <p>Projects • Designs • Work</p>
 
 <a href="https://noeticstech.com/" target="_blank">
-<img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
 </a>
 
 </td>
 
 </tr>
 </table>
+>
 
 
 
