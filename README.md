@@ -128,55 +128,52 @@
 
 </table>
 
+<img width="1378" height="836" alt="image" src="https://github.com/user-attachments/assets/7cf159ad-c695-427f-b86b-b4ec30b55f9c" />
+
+
+
+
 <hr>
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
 <div align="center">
 
-<!-- Banner / End Image -->
-<img src="end.png" width="80%" />
+<!-- Clickable Coffee Banner -->
+
+<a href="https://www.buymeacoffee.com/noeticstech" target="_blank">
+  <img src="end.png" width="85%" />
+</a>
 
 <br><br>
 
-<!-- Social Links -->
+<!-- Social Icons -->
 
 <a href="mailto:noeticstech@gmail.com">
-  <img src="gmail.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 <a href="https://twitter.com/noeticstech">
-  <img src="twitter.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="60"/>
 </a>
 
 <a href="https://instagram.com/noeticstech">
-  <img src="instagram.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
 
 <a href="https://github.com/noeticstech">
-  <img src="github.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://linkedin.com/in/noeticstech">
-  <img src="linkedin.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="https://dev.to/noeticstech">
-  <img src="dev.png" height="60"/>
-</a>
-
-<br><br>
-
-<!-- Buy Me Coffee (ONLY external image as requested) -->
-
-<a href="https://www.buymeacoffee.com/noeticstech">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=noeticstech&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" height="55"/>
+  <img src="https://skillicons.dev/icons?i=devto" height="60"/>
 </a>
 
 </div>
-
-
-
 
 
 
