@@ -9,13 +9,13 @@
   <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,cpp,c,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux,bash,vscode,postman&theme=dark">
 </p>
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
 
-<td width="75%" align="center">
-<h3>⭐ Favourite Characters</h3>
+<!-- Characters Section -->
+<td width="70%" align="center" valign="middle">
 
-<!-- Favourite Characters -->
+<h3>⭐ Favourite Characters</h3>
 
 <img src="1.jpg" height="108"/>
 <img src="2.jpg" height="108"/>
@@ -44,11 +44,13 @@
 <img src="23.jpg" height="108"/>
 <img src="24.jpg" height="108"/>
 
-
 </td>
 
-<td width="25%" align="center">
+<!-- Portfolio Section -->
+<td width="30%" align="center" valign="middle">
+
 <h3>🚀 My Portfolio</h3>
+<p style="margin:6px 0;">Projects • Designs • Work</p>
 
 <a href="https://noeticstech.com/" target="_blank">
 <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
@@ -58,6 +60,7 @@
 
 </tr>
 </table>
+
 
 <table width="100%" style="border-collapse:collapse;">
 
