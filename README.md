@@ -10,6 +10,70 @@
 </p>
 
 
+<hr>
+
+<table width="100%">
+<tr>
+
+<!-- LEFT : Character Images -->
+<td width="60%" align="center">
+
+  <img src="assets/1.jpg" height="120"/>
+  <img src="assets/2.jpg" height="120"/>
+  <img src="assets/3.jpg" height="120"/>
+  <img src="assets/4.jpg" height="120"/>
+  <img src="assets/5.jpg" height="120"/>
+  <img src="assets/6.jpg" height="120"/>
+
+  <br/>
+
+  <img src="assets/7.jpg" height="120"/>
+  <img src="assets/8.jpg" height="120"/>
+  <img src="assets/9.jpg" height="120"/>
+  <img src="assets/10.jpg" height="120"/>
+  <img src="assets/11.jpg" height="120"/>
+  <img src="assets/12.jpg" height="120"/>
+
+  <br/>
+
+  <img src="assets/13.jpg" height="120"/>
+  <img src="assets/14.jpg" height="120"/>
+  <img src="assets/15.jpg" height="120"/>
+  <img src="assets/16.jpg" height="120"/>
+  <img src="assets/17.jpg" height="120"/>
+  <img src="assets/18.jpg" height="120"/>
+
+  <br/>
+
+  <img src="assets/19.jpg" height="120"/>
+  <img src="assets/20.jpg" height="120"/>
+  <img src="assets/21.jpg" height="120"/>
+  <img src="assets/22.jpg" height="120"/>
+  <img src="assets/23.jpg" height="120"/>
+  <img src="assets/24.jpg" height="120"/>
+
+</td>
+
+
+<!-- RIGHT : Portfolio -->
+
+<td width="40%" align="center">
+
+  <h2>🚀 My Portfolio</h2>
+
+  <p>Check out my projects, designs and work.</p>
+
+  <a href="http://noeticstech.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
 
 
 
