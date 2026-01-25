@@ -9,57 +9,60 @@
   <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,cpp,c,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux,bash,vscode,postman&theme=dark">
 </p>
 
-
 <hr>
 
 <table width="100%">
 <tr>
 
-<!-- Characters Grid -->
-<td width="60%" align="center">
+<!-- LEFT : Favourite Characters -->
+<td width="75%" align="center">
+
+<h3>⭐ Favourite Characters</h3>
+
+<div style="max-width:900px;">
 
 <!-- Row 1 -->
-<img src="assets/1.jpg" height="120"/>
-<img src="assets/2.jpg" height="120"/>
-<img src="assets/3.jpg" height="120"/>
-<img src="assets/4.jpg" height="120"/>
-<img src="assets/5.jpg" height="120"/>
-<img src="assets/6.jpg" height="120"/><br/>
+<img src="1.jpg" height="120"/>
+<img src="2.jpg" height="120"/>
+<img src="3.jpg" height="120"/>
+<img src="4.jpg" height="120"/>
+<img src="5.jpg" height="120"/>
+<img src="6.jpg" height="120"/>
+<img src="7.jpg" height="120"/>
+<img src="8.jpg" height="120"/><br/>
 
 <!-- Row 2 -->
-<img src="assets/7.jpg" height="120"/>
-<img src="assets/8.jpg" height="120"/>
-<img src="assets/9.jpg" height="120"/>
-<img src="assets/10.jpg" height="120"/>
-<img src="assets/11.jpg" height="120"/>
-<img src="assets/12.jpg" height="120"/><br/>
+<img src="9.jpg" height="120"/>
+<img src="10.jpg" height="120"/>
+<img src="11.jpg" height="120"/>
+<img src="12.jpg" height="120"/>
+<img src="13.jpg" height="120"/>
+<img src="14.jpg" height="120"/>
+<img src="15.jpg" height="120"/>
+<img src="16.jpg" height="120"/><br/>
 
 <!-- Row 3 -->
-<img src="assets/13.jpg" height="120"/>
-<img src="assets/14.jpg" height="120"/>
-<img src="assets/15.jpg" height="120"/>
-<img src="assets/16.jpg" height="120"/>
-<img src="assets/17.jpg" height="120"/>
-<img src="assets/18.jpg" height="120"/><br/>
+<img src="17.jpg" height="120"/>
+<img src="18.jpg" height="120"/>
+<img src="19.jpg" height="120"/>
+<img src="20.jpg" height="120"/>
+<img src="21.jpg" height="120"/>
+<img src="22.jpg" height="120"/>
+<img src="23.jpg" height="120"/>
+<img src="24.jpg" height="120"/>
 
-<!-- Row 4 -->
-<img src="assets/19.jpg" height="120"/>
-<img src="assets/20.jpg" height="120"/>
-<img src="assets/21.jpg" height="120"/>
-<img src="assets/22.jpg" height="120"/>
-<img src="assets/23.jpg" height="120"/>
-<img src="assets/24.jpg" height="120"/>
+</div>
 
 </td>
 
-<!-- Portfolio Section -->
-<td width="40%" align="center">
+<!-- RIGHT : Portfolio -->
+<td width="25%" align="center">
 
-<h2>🚀 My Portfolio</h2>
+<h3>🚀 My Portfolio</h3>
 <p>Check out my projects, designs and work.</p>
 
 <a href="https://noeticstech.com/" target="_blank">
-<img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
 </a>
 
 </td>
@@ -68,6 +71,10 @@
 </table>
 
 <hr>
+
+
+
+
 
 
 
