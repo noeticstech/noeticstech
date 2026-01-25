@@ -15,32 +15,35 @@
 <td width="75%" align="center">
 <h3>⭐ Favourite Characters</h3>
 
-<img src="1.jpg" height="120"/>
-<img src="2.jpg" height="120"/>
-<img src="3.jpg" height="120"/>
-<img src="4.jpg" height="120"/>
-<img src="5.jpg" height="120"/>
-<img src="6.jpg" height="120"/>
-<img src="7.jpg" height="120"/>
-<img src="8.jpg" height="120"/><br/>
+<!-- Favourite Characters -->
 
-<img src="9.jpg" height="120"/>
-<img src="10.jpg" height="120"/>
-<img src="11.jpg" height="120"/>
-<img src="12.jpg" height="120"/>
-<img src="13.jpg" height="120"/>
-<img src="14.jpg" height="120"/>
-<img src="15.jpg" height="120"/>
-<img src="16.jpg" height="120"/><br/>
+<img src="1.jpg" height="108"/>
+<img src="2.jpg" height="108"/>
+<img src="3.jpg" height="108"/>
+<img src="4.jpg" height="108"/>
+<img src="5.jpg" height="108"/>
+<img src="6.jpg" height="108"/>
+<img src="7.jpg" height="108"/>
+<img src="8.jpg" height="108"/><br/>
 
-<img src="17.jpg" height="120"/>
-<img src="18.jpg" height="120"/>
-<img src="19.jpg" height="120"/>
-<img src="20.jpg" height="120"/>
-<img src="21.jpg" height="120"/>
-<img src="22.jpg" height="120"/>
-<img src="23.jpg" height="120"/>
-<img src="24.jpg" height="120"/>
+<img src="9.jpg" height="108"/>
+<img src="10.jpg" height="108"/>
+<img src="11.jpg" height="108"/>
+<img src="12.jpg" height="108"/>
+<img src="13.jpg" height="108"/>
+<img src="14.jpg" height="108"/>
+<img src="15.jpg" height="108"/>
+<img src="16.jpg" height="108"/><br/>
+
+<img src="17.jpg" height="108"/>
+<img src="18.jpg" height="108"/>
+<img src="19.jpg" height="108"/>
+<img src="20.jpg" height="108"/>
+<img src="21.jpg" height="108"/>
+<img src="22.jpg" height="108"/>
+<img src="23.jpg" height="108"/>
+<img src="24.jpg" height="108"/>
+
 
 </td>
 
@@ -72,17 +75,18 @@
 
 <h3>📚 Favourite Books</h3>
 
-<img src="book1.jpg" height="85"/>
-<img src="book2.jpg" height="85"/>
-<img src="book3.jpg" height="85"/>
-<img src="book4.jpg" height="85"/>
-<img src="book5.jpg" height="85"/><br/>
+<img src="book1.jpg" height="60"/>
+<img src="book2.jpg" height="60"/>
+<img src="book3.jpg" height="60"/>
+<img src="book4.jpg" height="60"/>
+<img src="book5.jpg" height="60"/><br/>
 
-<img src="book6.png" height="85"/>
-<img src="book7.jpg" height="85"/>
-<img src="book8.jpg" height="85"/>
-<img src="book9.png" height="85"/>
-<img src="book10.jpg" height="85"/>
+<img src="book6.png" height="60"/>
+<img src="book7.jpg" height="60"/>
+<img src="book8.jpg" height="60"/>
+<img src="book9.png" height="60"/>
+<img src="book10.jpg" height="60"/>
+
 
 </td>
 
