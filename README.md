@@ -71,6 +71,63 @@
 </table>
 
 <hr>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+
+<tr>
+
+<!-- LEFT (LOCKED) -->
+<td width="30%" valign="top">
+<img src="https://leetcard.jacoblin.cool/noeticstech?theme=dark&font=Karma&ext=activity" width="100%"/>
+</td>
+
+<!-- GIF (slightly wider to absorb empty space) -->
+<td width="34%" align="center" valign="middle">
+<img src="tech.gif" width="300"/>
+</td>
+
+<!-- BOOKS (same visual size, no padding waste) -->
+<td width="36%" valign="top" align="center" style="padding:0;">
+
+<h3 style="margin:0 0 6px 0;color:white;font-weight:600;text-align:center;">
+📚📚📚 Favourite Books 📚📚📚
+</h3>
+
+<div style="display:inline-block; text-align:center;">
+
+<img src="book1.jpg" height="85"/>
+<img src="book2.jpg" height="85"/>
+<img src="book3.jpg" height="85"/>
+<img src="book4.jpg" height="85"/>
+<img src="book5.jpg" height="85"/>
+
+<br/>
+
+<img src="book6.png" height="85"/>
+<img src="book7.jpg" height="85"/>
+<img src="book8.jpg" height="85"/>
+<img src="book9.png" height="85"/>
+<img src="book10.jpg" height="85"/>
+
+</div>
+
+</td>
+
+
+</tr>
+
+<tr>
+
+<td width="30%">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=noeticstech&theme=dark" width="100%"/>
+</td>
+
+<td colspan="2" align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="95%"/>
+</td>
+
+</tr>
+
+</table>
 
 
 
