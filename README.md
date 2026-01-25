@@ -12,8 +12,8 @@
 <table width="100%" style="border-collapse:collapse;">
 <tr>
 
-<!-- LEFT : Favourite Characters (70%) -->
-<td width="70%" align="center" valign="top">
+<!-- LEFT : Favourite Characters (80%) -->
+<td width="80%" align="center" valign="top">
 
 <h3>⭐ Favourite Characters</h3>
 
@@ -46,8 +46,8 @@
 
 </td>
 
-<!-- RIGHT : Portfolio (30%) -->
-<td width="30%" align="center" valign="middle">
+<!-- RIGHT : Portfolio (20%) -->
+<td width="20%" align="center" valign="middle">
 
 <h3>🚀 My Portfolio</h3>
 <p>Projects • Designs • Work</p>
@@ -60,7 +60,6 @@
 
 </tr>
 </table>
->
 
 
 
