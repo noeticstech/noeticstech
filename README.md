@@ -70,7 +70,6 @@
 </tr>
 </table>
 
-<hr>
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 
 <tr>
@@ -128,6 +127,7 @@
 </tr>
 
 </table>
+
 
 
 
