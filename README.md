@@ -53,7 +53,7 @@
 <h3>🚀 My Portfolio</h3>
 <p>Projects • Designs • Work</p>
 
-<a href="https://noeticstech.tech/" target="_blank">
+<a href="https://portfolio-noetics-tech.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
 </a>
 
