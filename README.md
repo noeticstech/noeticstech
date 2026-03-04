@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" height="300"/>
+  <img src="https://raw.githubusercontent.com/noeticstech/noeticstech/main/assets/welcome.gif" width="100%" />
 </p>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
