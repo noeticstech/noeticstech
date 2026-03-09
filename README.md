@@ -7,7 +7,7 @@
 
 <h2 align="center">🛠 Technologies & Tools</h2>
 <p align="center">
-  <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,cpp,c,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux,bash,vscode,postman&theme=dark">
+  <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,cpp,c,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux,bash,tailwind,vscode,postman&theme=dark">
 </p>
 
 <table width="100%" style="border-collapse:collapse;">
