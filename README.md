@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/noeticstech/noeticstech/main/assets/welcome.gif" width="100%" />
 </p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Yo%F0%9F%AB%A1+I'm+Vaibhav+Singh+Kushwaha;PERN-Stack+Developer;Data+Enthusiast;Turning+ideas+into+reality;Welcome+to+my+GitHub!+🚀" />
+</h1>
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noeticstech&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 
