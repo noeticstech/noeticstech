@@ -58,6 +58,9 @@
 <a href="https://vaibhav-singh-kushwaha.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
 </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=noeticstech&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" style="padding-right:20px;" />
+</p>
 
 </td>
 
