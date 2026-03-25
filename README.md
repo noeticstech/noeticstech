@@ -12,11 +12,11 @@
   <img height="150" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,python,django,flask,cpp,c,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux,bash,tailwind,vscode,postman&theme=dark">
 </p>
 
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%" style="border-collapse:collapse; table-layout:fixed;">
 <tr>
 
-<!-- LEFT : Favourite Characters (80%) -->
-<td width="80%" align="center" valign="top">
+<!-- LEFT -->
+<td width="78%" align="center" valign="top">
 
 <h3>⭐ Favourite Characters</h3>
 
@@ -49,22 +49,24 @@
 
 </td>
 
-<!-- RIGHT : Portfolio (20%) -->
-<td width="20%" align="center" valign="middle">
+<!-- RIGHT -->
+<td width="22%" align="center" valign="top">
 
 <h3>🚀 My Portfolio</h3>
 <p>Projects • Designs • Work</p>
 
 <a href="https://vaibhav-singh-kushwaha.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge" />
 </a>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=noeticstech&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" style="padding-right:20px;" />
-</p>
 
-<p align="center">
-  <img src="Developer.gif" width="100%" />
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=noeticstech&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" />
+
+<br/><br/>
+
+<img src="Developer.gif" width="95%" />
+
 </td>
 
 </tr>
