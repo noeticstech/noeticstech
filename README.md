@@ -62,6 +62,9 @@
   <img src="https://komarev.com/ghpvc/?username=noeticstech&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" style="padding-right:20px;" />
 </p>
 
+<p align="center">
+  <img src="Developer.gif" width="100%" />
+</p>
 </td>
 
 </tr>
